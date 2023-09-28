@@ -1,0 +1,11 @@
+Name
+Description
+Version
+Author
+Architecture
+Dependecies split by ;n;
+Conflicts
+Licence
+Homepage
+Bash Pre-install Script
+Bash After-install Script
